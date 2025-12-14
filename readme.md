@@ -34,7 +34,7 @@ Sistem ini memungkinkan admin untuk mengelola data lapangan, jadwal penggunaan, 
 ## 🚀 Cara Menjalankan Project
 
 1. Download atau clone repository ini
-2. Buka folder `rental-lapangan-bulutangkis final`
+2. Buka folder `rental-lapangan-bulutangkis`
 3. Jalankan dengan **double-click pada file `index.html`**
 4. Login menggunakan akun admin default
 
