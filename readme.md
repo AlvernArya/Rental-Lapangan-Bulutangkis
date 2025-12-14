@@ -1,4 +1,4 @@
-# 🏸 Rental Lapangan Bulutangkis Dipendesu
+# 🏸 Rental Lapangan Bulutangkis
 
 Aplikasi **manajemen rental lapangan bulutangkis** berbasis web sederhana.  
 Project ini dibuat **tanpa backend & tanpa database**, seluruh data disimpan menggunakan **LocalStorage** di browser.
